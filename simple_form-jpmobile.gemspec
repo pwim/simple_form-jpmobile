@@ -6,8 +6,8 @@ Gem::Specification.new do |s|
   s.name        = "simple_form-jpmobile"
   s.version     = SimpleForm::Jpmobile::VERSION
   s.platform    = Gem::Platform::RUBY
-  s.authors     = ["TODO: Write your name"]
-  s.email       = ["TODO: Write your email address"]
+  s.authors     = ["Paul McMahon"]
+  s.email       = ["paul@mobalean.com"]
   s.homepage    = ""
   s.summary     = %q{SimpleForm and Jpmobile integration}
   s.description = %q{Keitai numeric imput modes on SimpleForm}
