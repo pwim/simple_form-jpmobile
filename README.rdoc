@@ -1,0 +1,8 @@
+= SimpleForm/jpmobile integration
+
+A simple example
+
+  - simple_form_for @profile_search do |f|
+    = f.name # default input mode
+    = f.name_kana, :as => :hankaku # force hankaku input
+    = f.birthday # inferred as numeric
